@@ -1,0 +1,8 @@
+<doctype=html>
+<style>
+.MyWebsite {
+background-colour: E2E2E2;
+</style>
+
+<div class="MyWebsite"></>
+<h2>MyWebsite</h2>
